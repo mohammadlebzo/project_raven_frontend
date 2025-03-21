@@ -1,4 +1,4 @@
-# Rsbuild project
+# Project Raven Frontend
 
 ## Get started
 
