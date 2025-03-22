@@ -36,7 +36,7 @@
 - ***For the design choice I wanted it to look more like game menus (or something fun) but did not have enough materials to properly populate the pages (mostly desktop).***
 - ***For the code name 'Raven' it's just a code name I use for many of my projects (long Story).***
 - ***Screen break-points are 600px and 1600px (width), which is kind of supporting mobile, tablet and desktop like that.***
-- ***Current showed mobile ratio is the minimum ratio at which things would still look good/ok. Mobile width starting from 500px look much better***
+- ***Current mobile ratio shown below is the minimum ratio at which things would still look good/ok. Mobile width starting from 500px look much better***
     - ***I have the minimum ratio here to show that things would still hold up***
 
 ### Login Page (Desktop - 1366x768)
